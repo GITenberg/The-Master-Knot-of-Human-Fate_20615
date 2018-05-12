@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9415'
     url: http://www.gutenberg.org/2009/agents/9415
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20615#The-Master-Knot-of-Human-Fate
 gutenberg_issued: '2007-02-17'
 gutenberg_type: Text
 identifiers:
